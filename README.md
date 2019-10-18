@@ -3,7 +3,7 @@
 Simple Yandex translator in Python.<br>
 Requirements:<br>
   + Library **requests**<br>
-  + Requirements: getting API-KEY on https://tech.yandex.com/translate/<br>
+  + Getting API-KEY on https://tech.yandex.com/translate/<br>
 Thanks for the idea [Nikita Vandishev](https://gist.github.com/nekitvand).<br>
 
 Простой яндекс переводчик на Python.<br>
