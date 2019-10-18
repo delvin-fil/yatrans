@@ -19,7 +19,7 @@ headers = {
     '1'
 }
 
-if len(sys.argv) < 2:
+if len(sys.argv) < 3 or len(sys.argv) > 3:
     print('Usage: tr.py -lf -t \n \
         -lf - language from-to \n \
         -t - text')
