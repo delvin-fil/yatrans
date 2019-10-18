@@ -25,12 +25,12 @@ File [yatrans.sh](https://github.com/delvin-fil/yatrans/blob/master/yatrans.sh) 
 Example for IceWM:
 
 ```shell
-export PATH="${PATH}:$HOME/.local/bin"
-chmod +x path/to/yatrans.py
-chmod +x path/to/yatrans.sh
+$ export PATH="${PATH}:$HOME/.local/bin"
+$ chmod +x path/to/yatrans.py
+$ chmod +x path/to/yatrans.sh
 
-ln -s path/to/yatrans.py $HOME/.local/bin/mytrans
-nano $HOME/.icewm/keys
+$ ln -s path/to/yatrans.py $HOME/.local/bin/mytrans
+$ nano $HOME/.icewm/keys
 # add string
 key "Ctrl+1" path/to/yatrans.sh
 ............
