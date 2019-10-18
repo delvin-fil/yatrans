@@ -26,7 +26,12 @@ Example for IceWM:
 
 ```shell
 export PATH="${PATH}:$HOME/.local/bin"
+chmod +x path/to/yatrans.py
+chmod +x path/to/yatrans.sh
+
 ln -s path/to/yatrans.py $HOME/.local/bin/mytrans
 nano $HOME/.icewm/keys
-key "Ctrl+1" $HOME/.local/bin/mytrans
+# add string
+key "Ctrl+1" path/to/yatrans.sh
+............
 ```
