@@ -12,7 +12,7 @@ Thanks for the idea [Nikita Vandishev] (https://gist.github.com/nekitvand).<br>
 
 Example:
 ```shell
-python yatrans.py ru-en "Я яндекс-переводчик"
+$ python yatrans.py ru-en "Я яндекс-переводчик"
 I Yandex-translator
 ```
 
