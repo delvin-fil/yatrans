@@ -19,7 +19,7 @@ Example:
 $ python yatrans.py ru-en "Я яндекс-переводчик"
 I Yandex-translator
 ```
-
+***
 File [yatrans.sh](https://github.com/delvin-fil/yatrans/blob/master/yatrans.sh) designed for installation of "mediator" between the script and the DE/WM in Linux and creating combinatii keys.
 
 Файл [yatrans.sh](https://github.com/delvin-fil/yatrans/blob/master/yatrans.sh) предназначен для установки "посредником" между скриптом и DE/WM Linux и создании комбинкации клавиш. 
