@@ -10,3 +10,9 @@ Thanks for the idea [Nikita Vandishev] (https://gist.github.com/nekitvand).<br>
 Требования: Получение API-KEY на https://tech.yandex.com/translate/<br>
 Благодарность за идею [Nikita Vandishev](https://gist.github.com/nekitvand)<br>
 
+Example:
+```shell
+python yatrans.py ru-en "Я яндекс-переводчик"
+I Yandex-translator
+```
+
