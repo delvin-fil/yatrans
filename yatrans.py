@@ -38,5 +38,5 @@ def translate_me(mytext):
     response = requests.get(URL ,params=params, headers=headers)
     return response.json()
 
-json = translate_me('')
+json = translate_me('test')
 print(''.join(json['text']))
