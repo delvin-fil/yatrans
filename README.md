@@ -1,0 +1,2 @@
+# yatrans
+Simple Yandex translator
